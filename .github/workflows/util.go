@@ -1,4 +1,5 @@
-package bad
+package main
+
 
 import (
 	"strings"
